@@ -1,0 +1,4 @@
+mysqli_connect();  link data
+mysqli_query(); 
+num_rows
+fetch_assoc();
